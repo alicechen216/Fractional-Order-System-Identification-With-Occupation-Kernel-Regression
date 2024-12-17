@@ -1,4 +1,4 @@
-function experiment()
+function system_1_experiment_2()
     % Parameters
     q = 4/5;       % Fractional order
     mu_values = [0.5, 1.0, 2.0, 3.0, 5.0];  % Kernel widths to test
