@@ -1,4 +1,4 @@
-function main()
+function system_1_experiment_1()
 clc;clear;close all;
     % Parameters
     q = 4/5;       % Fractional order
