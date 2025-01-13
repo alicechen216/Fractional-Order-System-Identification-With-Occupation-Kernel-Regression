@@ -160,4 +160,4 @@ function dx = systemDynamics(x)
     dx = [1 / (1 + x(2)^2); 1 / (1 + x(1)^2)];
 end
 
-% Include the full FractionalOccupationKernel class as defined previously
+
